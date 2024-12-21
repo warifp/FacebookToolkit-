@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\config",
+    "\\images",
+    "\\modules",
+    "\\result",
+    "\\tools",
+    "\\tools\\clean",
+    "\\tools\\getAbout",
+    "\\tools\\getAccessToken"
+  ],
+  "SelectedNode": "\\tools\\getAccessToken\\getAccessToken.php",
+  "PreviewInSolutionExplorer": true
+}
